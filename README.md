@@ -82,19 +82,19 @@ Display Result + Export PDF
 
 ```
 
-INFO-INTERN/
+Personalized-Cover-Letter-Generator/PCV
 │
-├── app.py
+├── DejaVuSansCondensed.cw127.pkl
+├── DejaVuSansCondensed.pkl
+├── DejaVuSansCondensed.ttf
+├── chats.json
+├── gencv.py
 ├── requirements.txt
-├── cv_chats_ollama.json
 │
 ├── assets/
 │   └── images
 │
-├── modules/
-│   ├── ocr_processing.py
-│   ├── pdf_generator.py
-│   └── ai_generator.py
+├── LICENSE 
 │
 └── README.md
 
@@ -137,13 +137,16 @@ streamlit run app.py
 
 # 🖼 Screenshots
 
-*Add screenshots of your application here.*
+### UI of Generated Cover Letter
 
-Example:
+![uiofcv](PCV/assessts/uiofcv.png)
 
+
+Error faced during project
+
+ERROR1: Garbage 
 ```
-screenshots/homepage.png
-screenshots/generated_cover_letter.png
+PCV/assessts/GARABAGE.png
 ```
 
 ---
