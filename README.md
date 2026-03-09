@@ -52,29 +52,7 @@ This project helps job seekers streamline their job applications by generating h
 
 # 🏗 System Architecture
 
-```
-
-User Input
-│
-▼
-Upload Resume + Enter Job Description
-│
-▼
-OCR Processing (PaddleOCR)
-│
-▼
-Text Extraction
-│
-▼
-AI Model Processing (Ollama / Phi)
-│
-▼
-Generate Personalized Cover Letter
-│
-▼
-Display Result + Export PDF
-
-```
+![ERROR](assests/error.png)
 
 ---
 
@@ -139,15 +117,18 @@ streamlit run app.py
 
 ### UI of Generated Cover Letter
 
-![uiofcv](PCV/assessts/uiofcv.png)
+![uiofcv](assests/uiofcv.png)
 
 
-Error faced during project
+### Error faced during project 
 
-ERROR1: Garbage 
-```
-PCV/assessts/GARABAGE.png
-```
+These errors happens, only when you use small models or System Requirement is less than 8 RAM or Less.
+
+ERROR 1: Garbage 
+![GARBAGE](assests/GARBAGE.png)
+
+ERROR 2: 
+![ERROR](assests/error.png)
 
 ---
 
