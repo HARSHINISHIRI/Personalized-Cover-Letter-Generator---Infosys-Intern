@@ -125,7 +125,7 @@ These errors happens, only when you use small models or System Requirement is le
 ERROR 1: Garbage 
 ![GARBAGE](assests/GARBAGE.png)
 
-ERROR 2: 
+ERROR 2: Due low System Requirement.
 ![ERROR](assests/error.png)
 
 ---
@@ -144,5 +144,4 @@ ERROR 2:
 
 This project is developed for educational and research purposes.
 
-```
 
